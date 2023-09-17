@@ -1,29 +1,17 @@
-.heading {
-    text-align: center;
-    margin-bottom: 2px; 
-    font-family: 'Pacifico', cursive; 
-}
 
-/* Center the poem */
-.Poem {
-    text-align: center;
-    display: flex;
-    flex-direction: column; 
-    align-items: center;
-    justify-content: center; 
-    margin-top: 20px; 
-    font-family: 'Pacifico', cursive; 
-}
+  /* Style the title */
+  .heading {
+    font-family: 'Pacifico', cursive;
+  }
 
-/* Style the stanzas */
-.stanza {
-    margin-bottom: auto;
-    width: 100%; 
-    max-width: 500px; 
-}
+  
+  /* Center the poem */
+  .Poem {
+    font-family: 'Pacifico', cursive;
+  }
+  
+  
+  
 
-/* Style the image */
-.image {
-
-    justify-content: center;
-}
+  
+  
